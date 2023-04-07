@@ -14,13 +14,9 @@ This repository is a modified of [this source](https://gitee.com/better319/appin
 
 ## Access Container
 
-- Persistence
-- Auto-configuration of rendenzvouz IP
-
-## Connection Debugging
 <code>docker exec -it appinventor-appinventorserver-1 /bin/bash</code>
 
 
 ## Instructions
-- when connect ai companion with ios app
-- use legacy connection preferred use Android Studio as emulator
+- when connect ai companion with ios app, use legacy connection
+- preferred use Android Studio as emulator
