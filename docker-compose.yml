@@ -1,0 +1,11 @@
+version: "3"
+services:
+  appinventorserver:
+    build:
+      context: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - /home/firas001/Desktop/mit:/opt/src/appinventor
+    stdin_open: true
+    tty: true
